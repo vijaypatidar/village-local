@@ -1,4 +1,4 @@
-# village-local
+# Village Local
 This is an android app that has functionality to register himself as service provider to get the work arround your area. And the needy person can search service provider and get the service.
 # This application works in two phases which are as :
   [1] Service Provider
